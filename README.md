@@ -3,6 +3,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/mderya/pharma-cell-classification-cnn)
 [![Python](https://img.shields.io/badge/Python-3.8+-green)](https://python.org)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
+[![HuggingFace Space](https://img.shields.io/badge/🤗%20HuggingFace-Live%20Demo-yellow)](https://huggingface.co/spaces/mattderya/clinical-trial-cell-imaging-cnn)
 
 ## 🎯 Project Overview
 
